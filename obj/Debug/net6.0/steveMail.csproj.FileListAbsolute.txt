@@ -1,0 +1,80 @@
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\appsettings.json
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.staticwebassets.runtime.json
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.exe
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.deps.json
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.runtimeconfig.json
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\steveMail.pdb
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.AssemblyInfoInputs.cache
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.AssemblyInfo.cs
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.csproj.CoreCompileInputs.cache
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.RazorAssemblyInfo.cache
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.RazorAssemblyInfo.cs
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.steveMail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.build.steveMail.props
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.steveMail.props
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.steveMail.props
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\scopedcss\bundle\steveMail.styles.css
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\scopedcss\projectbundle\steveMail.bundle.scp.css
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.dll
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\refint\steveMail.dll
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.pdb
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.genruntimeconfig.cache
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\ref\steveMail.dll
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.csproj.AssemblyReference.cache
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\MailKit.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Scope\source\repos\steveMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Scope\source\repos\steveMail\obj\Debug\net6.0\steveMail.csproj.CopyComplete
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.staticwebassets.runtime.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.exe
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.deps.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.runtimeconfig.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\steveMail.pdb
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\MailKit.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\MimeKit.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.AssemblyInfo.cs
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.steveMail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.build.steveMail.props
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.steveMail.props
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.steveMail.props
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\scopedcss\bundle\steveMail.styles.css
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\scopedcss\projectbundle\steveMail.bundle.scp.css
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.csproj.CopyComplete
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\refint\steveMail.dll
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.pdb
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\steveMail.genruntimeconfig.cache
+C:\Users\hp\Downloads\Telegram Desktop\steveMail\obj\Debug\net6.0\ref\steveMail.dll
